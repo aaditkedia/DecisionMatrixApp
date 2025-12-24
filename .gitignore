@@ -1,0 +1,19 @@
+# Compiled Java files
+*.class
+
+# Results directory (optional - comment out if you want to track saved results)
+results/
+decision_history.txt
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
