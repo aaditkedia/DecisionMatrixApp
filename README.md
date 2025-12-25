@@ -117,7 +117,3 @@ When you save a result, a text file is created in the `results/` folder with:
 
 This project is available for educational and personal use.
 
-## Author
-
-Created as a Java project for decision-making support.
-
